@@ -1,4 +1,4 @@
-# XOR Encryption and Ceaser Cipher Using JavaScript.
+# XOR Encryption and Caeser Cipher Using JavaScript.
 
 
 Some Old Code.
