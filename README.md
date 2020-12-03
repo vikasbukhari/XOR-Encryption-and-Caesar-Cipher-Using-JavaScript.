@@ -1,2 +1,4 @@
-# XOR-CEASER-USING-JAVASCRIPT
-XOR and Ceaser Cipher Using JavaScript
+# XOR Encryption and Ceaser Cipher Using JavaScript.
+
+
+Some Old Code.
